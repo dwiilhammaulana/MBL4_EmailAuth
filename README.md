@@ -21,3 +21,9 @@ C. Postman Test Script — Auto-save Token
 ![alt text](image-7.png)
 Postman Test Script 
 ![alt text](image-8.png)
+
+
+
+5. Cek Status Verifikasi Email 
+![alt text](image-9.png)
+![alt text](image-10.png)
