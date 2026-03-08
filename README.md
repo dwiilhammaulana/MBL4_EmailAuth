@@ -27,3 +27,6 @@ Postman Test Script
 5. Cek Status Verifikasi Email 
 ![alt text](image-9.png)
 ![alt text](image-10.png)
+
+Cek via Backend (POST /auth/verify-token) 
+
