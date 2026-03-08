@@ -18,7 +18,4 @@ C. Postman Test Script — Auto-save Token
 
 4. Kirim Email Verifikasi 
 ![alt text](image-5.png)
-![
-    
-    
-](image-6.png)
+![alt text](image-7.png)
