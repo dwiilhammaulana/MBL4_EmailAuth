@@ -12,7 +12,13 @@ A. Response Sukses — 200 OK
 B. Response Error — Contoh 
 ![alt text](image-3.png)
 
+C. Postman Test Script — Auto-save Token 
+![alt text](image-4.png)
 
 
-
-4. Register — Membuat Akun Baru 
+4. Kirim Email Verifikasi 
+![alt text](image-5.png)
+![
+    
+    
+](image-6.png)
